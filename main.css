@@ -1,0 +1,11 @@
+*{
+margin: 0px;
+box-sizing: 0px;
+}
+body{
+background-color: rgb(187, 129, 241);
+}
+
+#contentRow{
+    justify-content: center;
+}
